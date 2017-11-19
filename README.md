@@ -1,15 +1,18 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Still working on this app for now but here are the basics:
 
-Things you may want to cover:
+* Ruby 2.3.3
 
-* Ruby version
+* Rails 5.1.4
+
+* D&D Edition 5
 
 * System dependencies
+  - D&D 5e API http://www.dnd5eapi.co/
+  - Bootstrap sass
 
-* Configuration
+* Configuration: standard defaults for now
 
 * Database creation
 
@@ -21,4 +24,4 @@ Things you may want to cover:
 
 * Deployment instructions
 
-* ...
+
